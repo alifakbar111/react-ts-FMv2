@@ -47,7 +47,7 @@
     "@types/react-dom": "^18.0.8",
     "autoprefixer": "^10.4.13",
     "postcss": "^8.4.18",
-    "prettier": "^2.7.1",
+    "prettier": "^2.8.8",
     "prettier-plugin-tailwindcss": "^0.1.13",
     "tailwindcss": "^3.2.2",
     "typescript": "^4.8.4"
@@ -62,5 +62,6 @@
     "bracketSpacing": true,
     "jsxBracketSameLine": false,
     "fluid": false
-  }
+  },
+  "packageManager": "pnpm@7.33.7+sha512.7afe2410642b39c698df46da4ce5c7231a5cce360698d69f8cf8f42257d40b3e43f231053b07b8de849fd4ffbf4a71ff57b835137777a352388f3d3da747200e"
 }
